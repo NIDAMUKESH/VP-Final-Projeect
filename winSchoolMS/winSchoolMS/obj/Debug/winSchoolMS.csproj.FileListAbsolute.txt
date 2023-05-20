@@ -1,0 +1,12 @@
+E:\SchoolMS\winSchoolMS\winSchoolMS\bin\Debug\winSchoolMS.exe.config
+E:\SchoolMS\winSchoolMS\winSchoolMS\bin\Debug\winSchoolMS.exe
+E:\SchoolMS\winSchoolMS\winSchoolMS\bin\Debug\winSchoolMS.pdb
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.AssemblyReference.cache
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.SuggestedBindingRedirects.cache
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.Properties.Resources.resources
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.GenerateResource.cache
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.csproj.CoreCompileInputs.cache
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.exe
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.pdb
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.frmDefultarstudent.resources
+E:\SchoolMS\winSchoolMS\winSchoolMS\obj\Debug\winSchoolMS.frmFeesDetail.resources
